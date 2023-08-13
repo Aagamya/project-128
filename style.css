@@ -1,0 +1,35 @@
+.heading{
+font-size: 25px;
+width: 100%;
+}
+#note{
+font-size: 18px;
+}
+body{
+background-image: url(background.jpg);
+background-size: cover;
+
+}
+.div_speed{
+float: left;
+}
+.div_speedimg,.div_volumeimg{
+width: 200px;
+border-radius: 100px;
+}
+#speed,.volume{
+font-size: 24px;
+margin:15px;
+}
+.div_volume{
+float: right;
+}
+#play,#stop{
+    font-size: 25px;
+    width:12%;
+}
+canvas{
+border-radius: 20px;
+border-color: azure;
+border: 5px solid white;
+}
